@@ -1,11 +1,1 @@
-<svg width="580" height="580" viewBox="0 0 580 580" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_28_10)">
-<path d="M2.12 2.12L577.62 577.62" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
-<path d="M2.12 577.62L577.62 2.12" stroke="black" stroke-width="6" stroke-miterlimit="10"/>
-</g>
-<defs>
-<clipPath id="clip0_28_10">
-<rect width="579.74" height="579.74" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 579.74 579.74"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:6px;}</style></defs><line class="cls-1" x1="2.12" y1="2.12" x2="577.62" y2="577.62"/><line class="cls-1" x1="2.12" y1="577.62" x2="577.62" y2="2.12"/></svg>
